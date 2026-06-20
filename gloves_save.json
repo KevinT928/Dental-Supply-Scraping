@@ -1,0 +1,68 @@
+{
+  "Glove Holder": [
+    {
+      "product name": "Wire glove box holder",
+      "SKU": "",
+      "price": "From $21.49",
+      "unit": "Three size options (to hold 2, 3 or 4 glove boxes)",
+      "availability": "",
+      "description": "Three size options to hold 2, 3 or 4 glove boxes. 4\" depth can accommodate virtually any size glove box on the market. Steel construction with baked-on white finish. Includes wall mounting hardware.",
+      "specifications": "Depth: 4\"; Material: Steel with baked-on white finish; Includes: wall mounting hardware; Capacity: Options to hold 2, 3 or 4 glove boxes",
+      "alternative products": "Safco Nitrilex Surpass nitrile gloves, Safco Safewrap syringe sleeves, Safco retainer boxes, Safco SafeWrap tray sleeves, Safco scalers",
+      "manufacturer": "UNIMED",
+      "category hierarchy": [
+        "Home",
+        "Dental Supplies",
+        "Dental Exam Gloves",
+        "Glove Holder",
+        "Wire glove box holder"
+      ],
+      "product URL": "https://www.safcodental.com/product/wire-glove-box-holder",
+      "image url": "https://www.safcodental.com/media/catalog/product/d/r/drvcd_lc.jpg?optimize=medium&fit=bounds&height=700&width=700&canvas=700:700"
+    }
+  ],
+  "Latex gloves": [
+    {
+      "product name": "Aurelia\u00ae Vibrant\u2122",
+      "SKU": "",
+      "price": "From $7.99",
+      "unit": "100 gloves per box",
+      "availability": "",
+      "description": "Powder-free latex exam gloves.",
+      "specifications": "Micro-textured finish, Beaded cuff, Chlorinated, Ambidextrous, 50\u03bcg or less of latex protein, Natural color, 100 gloves per box, Order 10 boxes to purchase a case",
+      "alternative products": "Safco Nitrilex UltraSoft, Safco Durasoft Latex, Safco Nitrilex, Safco Nitrilex Prevail, Safco EZ Green Chloroprene, Aurelia Refresh, Aurelia Distinct, Aurelia Perform, Aurelia Protege, Aurelia Blush, Aurelia Transform, Aurelia Sonic, Aurelia Absolute",
+      "manufacturer": "SUPERMAX",
+      "category hierarchy": [
+        "Home",
+        "Dental Supplies",
+        "Dental Exam Gloves",
+        "Latex gloves",
+        "Aurelia Vibrant"
+      ],
+      "product URL": "https://www.safcodental.com/product/aurelia-reg-vibrant-trade",
+      "image url": "https://www.safcodental.com/media/catalog/product/d/r/drbas.jpg?optimize=medium&fit=bounds&height=700&width=700&canvas=700:700"
+    }
+  ],
+  "Nitrile gloves": [
+    {
+      "product name": "Aquasoft Powder Free Nitrile Dental Exam Gloves",
+      "SKU": "",
+      "price": "From $31.49",
+      "unit": "300 gloves per box",
+      "availability": "",
+      "description": "Powder-free nitrile exam gloves. Ultra-thin with a silky, snug fit. Easy to don.",
+      "specifications": "Textured fingertip finish, Beaded cuff, Chlorinated, Ambidextrous, Color: Blue, Thickness: at palm 2.8mils; at fingertips 3.1 mils",
+      "alternative products": "Safco Nitrilex UltraSoft, Safco Nitrilex, Safco Nitrilex Prevail, Safco Nitrilex Soothe, Safco EZ Green Chloroprene, Cranberry Aqua Source, Halyard Lavender Nitrile, Cranberry AquaPrene, Ansell Micro-Touch NitraFree Blue, Ansell Neogard, Ansell Micro-Touch Nitrile, Safco Nitrilex Surpass nitrile gloves, Ecobee BeeSure Glacier Nitrile",
+      "manufacturer": "HALYARD",
+      "category hierarchy": [
+        "Home",
+        "Dental Supplies",
+        "Dental Exam Gloves",
+        "Nitrile gloves",
+        "Aquasoft"
+      ],
+      "product URL": "https://www.safcodental.com/product/aquasoft",
+      "image url": "https://www.safcodental.com/media/catalog/product/d/r/drcbt.jpg?optimize=medium&fit=bounds&height=700&width=700&canvas=700:700"
+    }
+  ]
+}
