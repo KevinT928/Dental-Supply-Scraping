@@ -58,3 +58,39 @@ I have spent a long while thinking about why, but couldn't figure out.
 For now, the main.py does NOT have a working pagination feature yet.
 
 Currently, main.py only accepts 3 items per category, because of limited available tokens during testing.
+
+---
+
+Architect overview:
+
+1. Use playwright to scrap DOM 
+
+(playwright because beautiful soup can't handle dynamic loading, and DOM because the entire HTML/raw text is too much for LLM to handle)
+
+2. Feed DOM to navigator agent to get the specific classnames 
+
+(these class names might change, and probably should not be hard-coded)
+
+3. Use the classname to find and parse for category 
+
+4. For each category, get all the display items using classname 
+
+5. For each item, load its corresponding page
+
+6. Manually select easily available information like image and product url
+
+7. Scrap the text and feed into extract agent to get the rest of the details
+
+8. Save the outputs as JSON file
+
+---
+
+More work needs to be done:
+
+Aside from the SKU and pagination,
+
+Resumability and checkpoints are really important, especially when the tokens are limited
+
+The current implementation of saving as one big JSON is not the best
+
+CSV where we can save each entry directly is probably a better choice (check point wise)
